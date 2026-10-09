@@ -2,12 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Joseph Vander Meulen`
+- **CCID:** `jvander2`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+The following resource from StackOverflow was used to learn about button Color styling:
+https://stackoverflow.com/questions/64376333/background-color-on-button-in-jetpack-compose
+
+Aside from that, the only other resource that was used was past labs.
 
 ## Verbal Collaboration
 
